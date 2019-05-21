@@ -7,5 +7,5 @@ Then you insert a number of radom pokemon to join the gym.
 
 It is necesary get the pokepy, random and time modules to run the program.
 
-writed by Adrian Gallardo.
+Written by Adrian Gallardo.
 May 2019
